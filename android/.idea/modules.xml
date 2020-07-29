@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RNWebView.iml" filepath="$PROJECT_DIR$/.idea/modules/RNWebView.iml" group="RNWebView" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="RNWebView/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-651611123/react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-651611123/react-native-webview.iml" group="RNWebView/react-native-webview" />
+    </modules>
+  </component>
+</project>

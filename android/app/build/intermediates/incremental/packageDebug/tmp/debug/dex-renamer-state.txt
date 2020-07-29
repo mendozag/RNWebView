@@ -1,0 +1,4 @@
+#Thu Jul 23 18:58:26 CDT 2020
+base.0=/Users/fercamx/desarrollo/RNWebView/android/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,6 @@
+module Pods_RNWebView_RNWebViewTests {
+  umbrella header "Pods-RNWebView-RNWebViewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
